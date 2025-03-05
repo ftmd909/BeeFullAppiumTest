@@ -1,0 +1,5 @@
+Pages\MainPage.class
+Pages\LoginPage.class
+Pages\NearestStationsListPage.class
+utils\AppiumCapabilities.class
+utils\BaseTest.class

@@ -1,0 +1,7 @@
+<suite name="BeeFullReservationTests">
+    <test name="ChargingStationTests">
+        <classes>
+            <class name="ChargingStationTest"/>
+        </classes>
+    </test>
+</suite>
